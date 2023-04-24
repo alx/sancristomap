@@ -56,7 +56,7 @@ fetch(configUrl)
           // get the icon name from the source's "icon" property
           // concatenate the name to get an icon from the style's sprite sheet
           'icon-image': ['get', 'icon'],
-          'icon-size': 1,
+          'icon-size': 0.7,
         }
       });
 
