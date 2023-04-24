@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd~ 4.1.11" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favourites</name>
+  </metadata>
+  <wpt lat="16.7355096" lon="-92.64314">
+    <time>2023-04-24T00:56:48Z</time>
+    <name>Casa Satoshi Hostel / BnB / CoLiving</name>
+    <type>sancris.culture</type>
+    <cmt>Amenity:Casa Satoshi Hostel / BnB / CoLiving: service:internet_access_yes</cmt>
+    <extensions>
+      <osmand:address>Calle Cuitláhuac 4, San Cristóbal de las Casas</osmand:address>
+      <osmand:icon>internet_access_yes</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#1010a0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="16.7380833" lon="-92.6253945">
+    <ele>2179.2</ele>
+    <time>2023-04-24T00:57:35Z</time>
+    <name>Iglesia de Guadalupe</name>
+    <type>sancris.culture</type>
+    <cmt>Amenity:Iglesia de Guadalupe: man_made:building</cmt>
+    <extensions>
+      <osmand:address>Callejón Cumbre de Guadalupe, San Cristóbal de las Casas</osmand:address>
+      <osmand:icon>building</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#1010a0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="16.7416433" lon="-92.6371318">
+    <ele>2141</ele>
+    <time>2023-04-24T00:57:51Z</time>
+    <name>Iglesia de Santo Domingo</name>
+    <type>sancris.culture</type>
+    <cmt>Amenity:Iglesia de Santo Domingo: man_made:building</cmt>
+    <extensions>
+      <osmand:address>Avenida General Utrilla, San Cristóbal de las Casas</osmand:address>
+      <osmand:icon>building</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#1010a0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="16.7373847" lon="-92.6355386">
+    <ele>2136</ele>
+    <time>2023-04-24T00:56:17Z</time>
+    <name>Kinoki</name>
+    <type>sancris.culture</type>
+    <cmt>Amenity:Kinoki: entertainment:arts_centre</cmt>
+    <extensions>
+      <osmand:address>Boulevard Belisario Domínguez, San Cristóbal de las Casas</osmand:address>
+      <osmand:icon>amenity_arts_centre</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#1010a0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="16.7343743" lon="-92.6415843">
+    <time>2023-04-09T16:22:37Z</time>
+    <name>Mirador</name>
+    <type>sancris.culture</type>
+    <cmt>Amenity:Scenic lookout Viewpoint: tourism:viewpoint</cmt>
+    <extensions>
+      <osmand:address>Calle Hermanos Domínguez, San Cristóbal de las Casas</osmand:address>
+      <osmand:icon>tourism_viewpoint</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#1010a0</osmand:color>
+    </extensions>
+  </wpt>
+</gpx>

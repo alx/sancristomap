@@ -1,0 +1,29 @@
+{
+  "mapCenter": [-92.638333,16.736667],
+  "layers": [
+    {
+      "name": "culture-layer",
+      "color": "#ed483f",
+      "visibility": "visible",
+      "legend": "🖼️ Culture"
+    },
+    {
+      "name": "food-layer",
+      "color": "#2274ba",
+      "visibility": "visible",
+      "legend": "🍽️ Resto/Bars"
+    },
+    {
+      "name": "shopping-layer",
+      "color": "#f6c73c",
+      "visibility": "visible",
+      "legend": "🛒 Commerces"
+    },
+    {
+      "name": "transport-layer",
+      "color": "#9e9e9e",
+      "visibility": "none",
+      "legend": "🚍 Transports"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd~ 4.1.11" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favourites</name>
+  </metadata>
+  <wpt lat="16.7401843" lon="-92.6354855">
+    <time>2023-04-24T00:59:13Z</time>
+    <name>Lum'ha</name>
+    <type>sancris.shopping</type>
+    <extensions>
+      <osmand:address>Boulevard Belisario Domínguez, San Cristóbal de las Casas</osmand:address>
+      <osmand:icon>shop_supermarket</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#1010a0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="16.7436108" lon="-92.6362091">
+    <ele>2130</ele>
+    <time>2023-04-24T01:00:06Z</time>
+    <name>Mercado Jose Castillo Tielemans</name>
+    <type>sancris.shopping</type>
+    <cmt>Amenity:Mercado Jose Castillo Tielemans: man_made:retail</cmt>
+    <extensions>
+      <osmand:address>Privada Primera de Bermudas, San Cristóbal de las Casas</osmand:address>
+      <osmand:icon>retail</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#1010a0</osmand:color>
+    </extensions>
+  </wpt>
+</gpx>

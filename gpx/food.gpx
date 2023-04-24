@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd~ 4.1.11" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favourites</name>
+  </metadata>
+  <wpt lat="16.7416947" lon="-92.6380277">
+    <time>2023-04-08T21:17:26Z</time>
+    <name>Loving Hut</name>
+    <type>sancris.food</type>
+    <cmt>Amenity:Loving Hut: service:internet_access_yes</cmt>
+    <extensions>
+      <osmand:address>20 de Noviembre 28, San Cristóbal de las Casas</osmand:address>
+      <osmand:icon>amenity_restaurant</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#1010a0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="16.7374668" lon="-92.6369441">
+    <time>2023-04-09T17:56:23Z</time>
+    <name>Oh La La! Real Patisserie Guadalupe</name>
+    <type>sancris.food</type>
+    <cmt>Amenity:French Bakery Oh La La! Real Patisserie Guadalupe: shop:bakery</cmt>
+    <extensions>
+      <osmand:address>Calle Real de Guadalupe 12, San Cristóbal de las Casas</osmand:address>
+      <osmand:icon>shop_bakery</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#1010a0</osmand:color>
+    </extensions>
+  </wpt>
+</gpx>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd~ 4.1.11" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favourites</name>
+  </metadata>
+  <wpt lat="16.7438522" lon="-92.6373758">
+    <ele>2132</ele>
+    <time>2023-04-24T01:00:26Z</time>
+    <name>Busetas</name>
+    <type>sancris.transport</type>
+    <extensions>
+      <osmand:address>Calle Costa Rica, San Cristóbal de las Casas</osmand:address>
+      <osmand:icon>retail</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#00842b</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="16.7297969" lon="-92.6366544">
+    <ele>2120.8</ele>
+    <time>2023-04-08T16:57:39Z</time>
+    <name>Terminal de Autobuses</name>
+    <type>sancris.transport</type>
+    <cmt>Amenity:Terminal de Autobuses: transportation:bus_station</cmt>
+    <extensions>
+      <osmand:address>Insurgentes 60, San Cristóbal de las Casas</osmand:address>
+      <osmand:icon>amenity_bus_station</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#00842b</osmand:color>
+    </extensions>
+  </wpt>
+</gpx>
